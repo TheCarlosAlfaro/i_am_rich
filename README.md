@@ -1,6 +1,6 @@
 # i_am_rich
 
-A new Flutter project.
+My first Flutter project.
 
 ## Getting Started
 
